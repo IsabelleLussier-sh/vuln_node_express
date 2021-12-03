@@ -1,0 +1,4 @@
+app:
+  applicationId: 4d2e73c6-7ecf-4324-a35e-c27c62aceeb2 # (required)
+  env: Pre-Production # (required)
+  host: http://localhost:3000 # (required)
